@@ -1,7 +1,7 @@
 # Ipgeobase
 
 A simple gem, that makes a request to https://ip-api.com/ and returns an object with meta info about provided IP address:
-`:city, :country, :country_code, :lat, :lon>`
+`:city, :country, :country_code, :lat, :lon`.
 ## Installation
 
 Add this line to your application's Gemfile:
